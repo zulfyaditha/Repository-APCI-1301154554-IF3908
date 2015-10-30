@@ -8,6 +8,7 @@ Program APCI-1301154554; // ubah menjadi Program APCI-NIM
                 Writeln(‘Kelas’); //Ubah untuk menampilkan Kelas Anda
                 Writeln(‘Asprak’); //Ubah untuk menampilkan Nama Asprak Anda
                 Writeln(‘NIM Teman’); //Ubah untuk menampilkan NIM teman anda
-                Writeln(‘Modul 10’); //Ubah untuk menampilkan string ‘Modul 6
+                Writeln(‘Modul 10’);
+				//Ubah untuk menampilkan string ‘Modul 6
             End.
 
